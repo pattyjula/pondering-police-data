@@ -12,7 +12,7 @@ Content will be presented at SCaLE 17 during March 2019 in Pasadena by Patty Jul
   - Plots made with Plotly
 
 ### Caution
-Code provided in this repository not the be taken as best or only method of data analysis. It represents an open source method using modern technology including Jupyter Notebook and the Python libraries: Seaborn, Numpy, pandas, matplotlib, and more.  
+Code provided in this repository not the be taken as best or only method of data analysis. It represents an open source method using modern technology including Jupyter Notebook and the Python libraries: Seaborn, Numpy, pandas, matplotlib, and more. Select content will also be reviewed through a [Flask](http://flask.pocoo.org/) application.  
 
 Several files are required to be downloaded to run this repository. Review links provided in 00 and 01 README files. It is also necessary to obtain a Plotly user name and password to create the plots with that technology.
 
