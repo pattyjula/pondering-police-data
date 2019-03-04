@@ -28,5 +28,6 @@ Suggestions for running code...
 ### References
 [Python for Data Analysis](http://wesmckinney.com/pages/book.html)  
 [Programming Python](https://learning-python.com/index-book-links.html)
+Self-study [resource](https://www.python-course.eu/python3_course.php)
 
 
